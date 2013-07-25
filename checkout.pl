@@ -58,7 +58,7 @@ END {
                 }
             }
 
-            print $qty, "x za $item_price $product\n";
+            print $user_qty, "x za $item_price $product\n";
         }
 
         my $czech = $user_price * 20;
