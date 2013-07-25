@@ -51,8 +51,8 @@ END {
                     my $level = $qty > 10 ? 2 : int($qty / 5);
                     $level = 0 if $level > scalar(@price_list);
 
-                    $item_price = $user_qty * $price_list[$level];
-                    $user_price += $item_price;
+                    $item_price = $price_list[$level];
+                    $user_price += $user_qty * $item_price;
 
                     last
                 }
