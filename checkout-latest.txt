@@ -50,10 +50,11 @@ Celkem za $13.39, cca 267.8 Kč
 Objednávka #6 (Robert Kuska, <facebook>)
 ----------------
 1x za 2.69 Git versioning system classic logo shaped sticker
+1x za 2.69 Number 42 shaped sticker
 1x za 2.69 Vim editor shaped sticker
 1x za 1.99 Python language shaped sticker
 ----------------
-Celkem za $7.37, cca 147.4 Kč
+Celkem za $10.06, cca 201.2 Kč
 
 Objednávka #7 (Honza Javorek, jan.javorek@gmail.com)
 ----------------
@@ -89,6 +90,7 @@ Celková objednávka
 1x Kit of 3 Tux square keyboard sticker
 1x Troll face meme shaped sticker
 2x Gnome badge sticker
+1x Number 42 shaped sticker
 1x Mongo DB shaped sticker
 2x Android badge sticker
 7x Git versioning system badge sticker
@@ -98,4 +100,4 @@ Celková objednávka
 2x Debian OS shaped sticker
 1x Xubuntu OS badge sticker
 ------------------
-Celkem: $71.13
+Celkem: $73.82
