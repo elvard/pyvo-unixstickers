@@ -35,14 +35,21 @@ Objednávka #5 (Petr Joachim, petr@joachim.cz)
 1x Python language shaped sticker
 2x Git versioning system badge sticker
 
+Objednávka #6 (Robert Kuska, <facebook>)
+----------------
+1x Git versioning system classic logo shaped sticker
+1x Vim editor shaped sticker
+1x Python language shaped sticker
+
 Celkem
 -------
+1x Vim editor shaped sticker
 1x Redis badge sticker
 2x Debian OS badge sticker
 2x Vim editor badge sticker
 2x Copyleft badge sticker
 1x Blender badge sticker
-5x Python language shaped sticker
+6x Python language shaped sticker
 1x Kit of 3 linux inside circle keyboard sticker
 6x Python language badge sticker
 4x Linux Mint OS badge sticker
@@ -50,6 +57,7 @@ Celkem
 1x Mongo DB shaped sticker
 4x Git versioning system badge sticker
 3x Gnu/Linux badge sticker
+1x Git versioning system classic logo shaped sticker
 1x Kit of 3 linux inside square keyboard sticker
 2x Debian OS shaped sticker
 1x Xubuntu OS badge sticker
