@@ -11,7 +11,7 @@ if ($file ne $ARGV) {
     next
 }
 
-if (/^(\d+) (.*)$/) {
+if (/^(\d+)x? (.*)$/) {
     my $qty = $1;
     my $product = $2;
 
