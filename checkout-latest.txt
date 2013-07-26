@@ -1,19 +1,19 @@
 Objednávka #1 (Petr Messner, petr.messner@gmail.com)
 ----------------
 1x za 2.69 Mongo DB shaped sticker
-2x za 1.99 Python language shaped sticker
+2x za 1.79 Python language shaped sticker
 ----------------
-Celkem za $6.67, cca 133.4 Kč
+Celkem za $6.27, cca 125.4 Kč
 
 Objednávka #2 (Vaclav Ehrlich, vaclav.ehrlich@gmail.com)
 ----------------
 2x za 0.69 Copyleft badge sticker
 2x za 0.69 Gnome badge sticker
 2x za 0.69 Android badge sticker
-2x za 0.65 Python language badge sticker
-2x za 0.65 Git versioning system badge sticker
+2x za 0.59 Python language badge sticker
+2x za 0.59 Git versioning system badge sticker
 ----------------
-Celkem za $6.74, cca 134.8 Kč
+Celkem za $6.5, cca 130 Kč
 
 Objednávka #3 (Pavel Grochal, darkless69@gmail.com)
 ----------------
@@ -25,79 +25,106 @@ Celkem za $7.45, cca 149 Kč
 
 Objednávka #4 (Tomáš Ehrlich, tomas.ehrlich@gmail.com)
 ----------------
-2x za 0.65 Git versioning system badge sticker
+2x za 0.59 Git versioning system badge sticker
 2x za 0.69 Debian OS badge sticker
 1x za 0.69 Redis badge sticker
-3x za 0.69 Gnu/Linux badge sticker
+3x za 0.65 Gnu/Linux badge sticker
 1x za 0.69 Blender badge sticker
-1x za 1.99 Python language shaped sticker
+1x za 1.79 Python language shaped sticker
 1x za 0.69 Linux Mint OS badge sticker
 2x za 2.69 Debian OS shaped sticker
-5x za 0.65 Python language badge sticker
+5x za 0.59 Python language badge sticker
 ----------------
-Celkem za $17.44, cca 348.8 Kč
+Celkem za $16.7, cca 334 Kč
 
 Objednávka #5 (Matej Stuchlik, matej.stuchlik@gmail.com)
 ----------------
 1x za 0.69 Arch Linux OS badge sticker
 2x za 2.69 Vim editor shaped sticker
-2x za 1.99 Python language shaped sticker
-1x za 0.65 Git versioning system badge sticker
+2x za 1.79 Python language shaped sticker
+1x za 0.59 Git versioning system badge sticker
 1x za 2.69 Kit of 3 Tux square keyboard sticker
 ----------------
-Celkem za $13.39, cca 267.8 Kč
+Celkem za $12.93, cca 258.6 Kč
 
 Objednávka #6 (Robert Kuska, <facebook>)
 ----------------
 1x za 2.69 Git versioning system classic logo shaped sticker
 1x za 2.69 Number 42 shaped sticker
 1x za 2.69 Vim editor shaped sticker
-1x za 1.99 Python language shaped sticker
+1x za 1.79 Python language shaped sticker
 ----------------
-Celkem za $10.06, cca 201.2 Kč
+Celkem za $9.86, cca 197.2 Kč
 
 Objednávka #7 (Honza Javorek, jan.javorek@gmail.com)
 ----------------
-1x za 1.99 Python language shaped sticker
-1x za 0.65 Python language badge sticker
+1x za 1.79 Python language shaped sticker
+1x za 0.59 Python language badge sticker
 1x za 0.69 Xubuntu OS badge sticker
 ----------------
-Celkem za $3.33, cca 66.6 Kč
+Celkem za $3.07, cca 61.4 Kč
 
-Objednávka #8 (Petr Joachim, petr@joachim.cz)
+Objednávka #8 (Martin Mágr, lol.paramite@gmail.com)
+----------------
+1x za 0.69 Mongo DB badge sticker
+1x za 0.59 Python language badge sticker
+----------------
+Celkem za $1.28, cca 25.6 Kč
+
+Objednávka #9 (Petr Joachim, petr@joachim.cz)
 ----------------
 1x za 2.69 Troll face meme shaped sticker
 2x za 0.69 Vim editor badge sticker
 2x za 0.69 Copyleft badge sticker
-1x za 1.99 Python language shaped sticker
-2x za 0.65 Git versioning system badge sticker
+1x za 1.79 Python language shaped sticker
+2x za 0.59 Git versioning system badge sticker
 ----------------
-Celkem za $8.74, cca 174.8 Kč
+Celkem za $8.42, cca 168.4 Kč
+
+Objednávka #10 (Petr Viktorin <encukou@gmail.com>)
+----------------
+1x za 2.69 Linux Tux shaped sticker
+1x za 2.69 Git versioning system shaped sticker
+3x za 0.59 Git versioning system badge sticker
+2x za 0.69 KDE badge sticker
+2x za 0.65 Gnu/Linux badge sticker
+1x za 2.69 KDE desktop environment shaped sticker
+3x za 1.79 Python language shaped sticker
+3x za 0.59 Python language badge sticker
+2x za 2.69 Kit of 3 Tux circle keyboard sticker
+----------------
+Celkem za $25.04, cca 500.8 Kč
 
 Celková objednávka
 ------------------
 1x Arch Linux OS badge sticker
 3x Vim editor shaped sticker
+2x KDE badge sticker
 1x Redis badge sticker
 2x Debian OS badge sticker
+1x Mongo DB badge sticker
 2x Vim editor badge sticker
 1x Blender badge sticker
 4x Copyleft badge sticker
 1x Kit of 3 linux inside circle keyboard sticker
-8x Python language shaped sticker
+11x Python language shaped sticker
 4x Linux Mint OS badge sticker
-8x Python language badge sticker
+12x Python language badge sticker
 1x Kit of 3 Tux square keyboard sticker
+1x Git versioning system shaped sticker
+1x Linux Tux shaped sticker
 1x Troll face meme shaped sticker
 2x Gnome badge sticker
 1x Number 42 shaped sticker
 1x Mongo DB shaped sticker
 2x Android badge sticker
-7x Git versioning system badge sticker
-3x Gnu/Linux badge sticker
+10x Git versioning system badge sticker
+5x Gnu/Linux badge sticker
 1x Git versioning system classic logo shaped sticker
 1x Kit of 3 linux inside square keyboard sticker
+1x KDE desktop environment shaped sticker
 2x Debian OS shaped sticker
+2x Kit of 3 Tux circle keyboard sticker
 1x Xubuntu OS badge sticker
 ------------------
-Celkem: $73.82
+Celkem: $97.52
