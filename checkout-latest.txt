@@ -11,9 +11,9 @@ Objednávka #2 (Vaclav Ehrlich, vaclav.ehrlich@gmail.com)
 2x za 0.69 Gnome badge sticker
 2x za 0.69 Android badge sticker
 2x za 0.59 Python language badge sticker
-2x za 0.65 Git versioning system badge sticker
+2x za 0.59 Git versioning system badge sticker
 ----------------
-Celkem za $6.62, cca 134.467846544156 Kč
+Celkem za $6.5, cca 132.030362920999 Kč
 
 Objednávka #3 (Pavel Grochal, darkless69@gmail.com)
 ----------------
@@ -25,29 +25,28 @@ Celkem za $7.45, cca 151.327108270991 Kč
 
 Objednávka #4 (Tomáš Ehrlich, tomas.ehrlich@gmail.com)
 ----------------
-1x za 0.65 Git versioning system badge sticker
-1x za 2.69 Linux Tux shaped Sticker
+1x za 2.69 Linux Tux shaped sticker
+2x za 0.59 Git versioning system badge sticker
 2x za 0.69 Debian OS badge sticker
 1x za 0.69 Redis badge sticker
 3x za 0.65 Gnu/Linux badge sticker
 1x za 0.69 GNU project badge sticker
-1x za 0.69 Bodhi Linux OS badge sticker
 1x za 0.69 Blender badge sticker
 1x za 1.79 Python language shaped sticker
 1x za 2.69 Debian OS shaped sticker
 5x za 0.59 Python language badge sticker
 ----------------
-Celkem za $16.86, cca 342.466449053545 Kč
+Celkem za $16.7, cca 339.216470889336 Kč
 
 Objednávka #5 (Matej Stuchlik, matej.stuchlik@gmail.com)
 ----------------
 1x za 0.69 Arch Linux OS badge sticker
 2x za 2.69 Vim editor shaped sticker
 2x za 1.79 Python language shaped sticker
-1x za 0.65 Git versioning system badge sticker
+1x za 0.59 Git versioning system badge sticker
 1x za 2.69 Kit of 3 Tux square keyboard sticker
 ----------------
-Celkem za $12.99, cca 263.857602206735 Kč
+Celkem za $12.93, cca 262.638860395157 Kč
 
 Objednávka #6 (Robert Kuska, <facebook>)
 ----------------
@@ -79,15 +78,15 @@ Objednávka #9 (Petr Joachim, petr@joachim.cz)
 2x za 0.69 Vim editor badge sticker
 2x za 0.69 Copyleft badge sticker
 1x za 1.79 Python language shaped sticker
-2x za 0.65 Git versioning system badge sticker
+2x za 0.59 Git versioning system badge sticker
 ----------------
-Celkem za $8.54, cca 173.467584514667 Kč
+Celkem za $8.42, cca 171.03010089151 Kč
 
 Objednávka #10 (Petr Viktorin <encukou@gmail.com>)
 ----------------
 1x za 2.69 Linux Tux shaped sticker
 1x za 2.69 Git versioning system shaped sticker
-3x za 0.65 Git versioning system badge sticker
+3x za 0.59 Git versioning system badge sticker
 2x za 0.69 KDE badge sticker
 2x za 0.65 Gnu/Linux badge sticker
 1x za 2.69 KDE desktop environment shaped sticker
@@ -95,7 +94,7 @@ Objednávka #10 (Petr Viktorin <encukou@gmail.com>)
 3x za 0.59 Python language badge sticker
 2x za 2.69 Kit of 3 Tux circle keyboard sticker
 ----------------
-Celkem za $25.22, cca 512.277808133477 Kč
+Celkem za $25.04, cca 508.621582698741 Kč
 
 Celková objednávka
 ------------------
@@ -105,31 +104,29 @@ Celková objednávka
 1x Redis badge sticker
 2x Debian OS badge sticker
 1x Mongo DB badge sticker
+2x Vim editor badge sticker
+1x GNU project badge sticker
+1x Blender badge sticker
+4x Copyleft badge sticker
+1x Kit of 3 linux inside circle keyboard sticker
 11x Python language shaped sticker
 3x Linux Mint OS badge sticker
 12x Python language badge sticker
 1x Kit of 3 Tux square keyboard sticker
-1x Linux Tux shaped sticker
+1x Git versioning system shaped sticker
 1x Troll face meme shaped sticker
+2x Linux Tux shaped sticker
 2x Gnome badge sticker
+1x Number 42 shaped sticker
+1x Mongo DB shaped sticker
+2x Android badge sticker
+10x Git versioning system badge sticker
 5x Gnu/Linux badge sticker
+1x Git versioning system classic logo shaped sticker
+1x Kit of 3 linux inside square keyboard sticker
 1x KDE desktop environment shaped sticker
 1x Debian OS shaped sticker
 2x Kit of 3 Tux circle keyboard sticker
-1x Linux Tux shaped Sticker
-1x GNU project badge sticker
-2x Vim editor badge sticker
-4x Copyleft badge sticker
-1x Blender badge sticker
-1x Kit of 3 linux inside circle keyboard sticker
-1x Git versioning system shaped sticker
-2x Android badge sticker
-1x Mongo DB shaped sticker
-1x Number 42 shaped sticker
-9x Git versioning system badge sticker
-1x Kit of 3 linux inside square keyboard sticker
-1x Git versioning system classic logo shaped sticker
-1x Bodhi Linux OS badge sticker
 1x Xubuntu OS badge sticker
 ------------------
-Celkem: $98.16
+Celkem: $97.52
