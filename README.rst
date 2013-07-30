@@ -16,9 +16,9 @@ viz předchozí objednávky::
 Release plan
 ============
 
-- 2013-07-18 -- Rozeslání potvrzovacího emailu s přehledem objednávky a odhadem ceny
-- 2013-07-19 -- Objednávka
-- 2013-07-02 -- Nejpozdější doručení (odesláno z Itálie, máme nejrychlejší a trackovatelné poštovné).
+- 2013-07-28 -- Rozeslání potvrzovacího emailu s přehledem objednávky a odhadem ceny
+- 2013-07-29 -- Objednávka
+- 2013-08-02 -- Nejpozdější doručení (odesláno z Itálie, máme nejrychlejší a trackovatelné poštovné).
 
 Přehled
 =======
