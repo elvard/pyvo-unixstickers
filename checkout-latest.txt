@@ -3,7 +3,7 @@ Objednávka #1 (Petr Messner, petr.messner@gmail.com)
 1x za 2.69 Mongo DB shaped sticker
 2x za 1.79 Python language shaped sticker
 ----------------
-Celkem za $6.27, cca 127.358519309948 Kč
+Celkem za $6.27, cca 127.32593204816 Kč
 
 Objednávka #2 (Vaclav Ehrlich, vaclav.ehrlich@gmail.com)
 ----------------
@@ -13,7 +13,7 @@ Objednávka #2 (Vaclav Ehrlich, vaclav.ehrlich@gmail.com)
 2x za 0.59 Python language badge sticker
 2x za 0.59 Git versioning system badge sticker
 ----------------
-Celkem za $6.5, cca 132.030362920999 Kč
+Celkem za $6.5, cca 131.996580273213 Kč
 
 Objednávka #3 (Pavel Grochal, darkless69@gmail.com)
 ----------------
@@ -21,7 +21,7 @@ Objednávka #3 (Pavel Grochal, darkless69@gmail.com)
 1x za 2.69 Kit of 3 linux inside circle keyboard sticker
 3x za 0.69 Linux Mint OS badge sticker
 ----------------
-Celkem za $7.45, cca 151.327108270991 Kč
+Celkem za $7.45, cca 151.288388159298 Kč
 
 Objednávka #4 (Tomáš Ehrlich, tomas.ehrlich@gmail.com)
 ----------------
@@ -36,7 +36,7 @@ Objednávka #4 (Tomáš Ehrlich, tomas.ehrlich@gmail.com)
 1x za 2.69 Debian OS shaped sticker
 5x za 0.59 Python language badge sticker
 ----------------
-Celkem za $16.7, cca 339.216470889336 Kč
+Celkem za $16.7, cca 339.129675471177 Kč
 
 Objednávka #5 (Matej Stuchlik, matej.stuchlik@gmail.com)
 ----------------
@@ -46,7 +46,7 @@ Objednávka #5 (Matej Stuchlik, matej.stuchlik@gmail.com)
 1x za 0.59 Git versioning system badge sticker
 1x za 2.69 Kit of 3 Tux square keyboard sticker
 ----------------
-Celkem za $12.93, cca 262.638860395157 Kč
+Celkem za $12.93, cca 262.571658912714 Kč
 
 Objednávka #6 (Robert Kuska, <facebook>)
 ----------------
@@ -55,7 +55,7 @@ Objednávka #6 (Robert Kuska, <facebook>)
 1x za 2.69 Vim editor shaped sticker
 1x za 1.79 Python language shaped sticker
 ----------------
-Celkem za $9.86, cca 200.279904369393 Kč
+Celkem za $9.86, cca 200.228658691366 Kč
 
 Objednávka #7 (Honza Javorek, jan.javorek@gmail.com)
 ----------------
@@ -63,14 +63,14 @@ Objednávka #7 (Honza Javorek, jan.javorek@gmail.com)
 1x za 0.59 Python language badge sticker
 1x za 0.69 Xubuntu OS badge sticker
 ----------------
-Celkem za $3.07, cca 62.3589560257642 Kč
+Celkem za $3.07, cca 62.3430002213481 Kč
 
 Objednávka #8 (Martin Mágr, lol.paramite@gmail.com)
 ----------------
 1x za 0.69 Mongo DB badge sticker
 1x za 0.59 Python language badge sticker
 ----------------
-Celkem za $1.28, cca 25.9998253136737 Kč
+Celkem za $1.28, cca 25.9931727307249 Kč
 
 Objednávka #9 (Petr Joachim, petr@joachim.cz)
 ----------------
@@ -80,7 +80,7 @@ Objednávka #9 (Petr Joachim, petr@joachim.cz)
 1x za 1.79 Python language shaped sticker
 2x za 0.59 Git versioning system badge sticker
 ----------------
-Celkem za $8.42, cca 171.03010089151 Kč
+Celkem za $8.42, cca 170.9863393693 Kč
 
 Objednávka #10 (Petr Viktorin <encukou@gmail.com>)
 ----------------
@@ -94,7 +94,7 @@ Objednávka #10 (Petr Viktorin <encukou@gmail.com>)
 3x za 0.59 Python language badge sticker
 2x za 2.69 Kit of 3 Tux circle keyboard sticker
 ----------------
-Celkem za $25.04, cca 508.621582698741 Kč
+Celkem za $25.04, cca 508.491441544807 Kč
 
 Celková objednávka
 ------------------
