@@ -61,7 +61,7 @@ END {
             print $user_qty, "x za $item_price $product\n";
         }
 
-        my $czech = $user_price * 20;
+        my $czech = $user_price / 0.0492311;
 
         say "----------------";
         say "Celkem za \$$user_price, cca $czech Kč";
