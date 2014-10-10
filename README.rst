@@ -16,9 +16,9 @@ viz předchozí objednávky::
 Release plan
 ============
 
-- 2013-07-28 -- Rozeslání potvrzovacího emailu s přehledem objednávky a odhadem ceny
-- 2013-07-29 -- Objednávka
-- 2013-08-02 -- Nejpozdější doručení (odesláno z Itálie, máme nejrychlejší a trackovatelné poštovné).
+- 2014-10-16 -- Uzavření objednávek a odeslání potvrzovacího emailu
+- 2014-10-17 -- Objednávka
+- následující týden doručení (do 2014-10-24)
 
 Přehled
 =======
@@ -32,6 +32,5 @@ Pokud máš nainstalovaný Perl, použij *checkout.pl*::
 Kontakt
 =======
 
-- https://www.facebook.com/groups/pyonieri/629169463761901/
 - tomas.ehrlich@gmail.com
 - 608 219 889
